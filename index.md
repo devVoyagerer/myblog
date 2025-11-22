@@ -3,8 +3,6 @@ title: "Adjya’s GitHub Guide for Beginners"
 ---
 
 # 🌟 The Ultimate GitHub Guide for 13 Year Olds  
-### Made for Adjya and his friends
-
 ---
 
 ## ⭐ 1. What is GitHub  
@@ -223,3 +221,4 @@ Example:
 ```html
 <h1>Hello World</h1>
 <p>This is my first website</p>
+
